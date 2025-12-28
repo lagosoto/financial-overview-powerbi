@@ -1,5 +1,6 @@
 # financial-overview-powerbi
 Power BI dashboard analyzing monthly revenue and labor cost to evaluate operational efficiency.
+This dashboard analyzes monthly revenue and labor costs to help entry-level analysts identify trends, cost efficiency, and potential operational issues.
 
 # Key Metrics
 - Total Revenue
