@@ -28,4 +28,4 @@ Excluded raw data to protect confidentiality.
 Labor percentage represents the proportion of total revenue spent on labor. 
 
 # Dashboard Preview
-![Power BI Financial Overview Dashboard](screenshot-dashboard.png)
+![Power BI Financial Overview Dashboard](screenshot/screenshot-dashboard.png)
